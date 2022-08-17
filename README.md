@@ -6,3 +6,5 @@ Based on "Long-term, agile documentation of requirements" at https://medium.com/
 Look at Option 3: **Requirements inside the code** of above article.
 
 Based on "Requirements as Code" at https://github.com/bertilmuth/requirementsascode
+
+Based on "The truth is in the code" at https://www.freecodecamp.org/news/the-truth-is-in-the-code-86a712362c99
